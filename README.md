@@ -1,2 +1,3 @@
-# coursera-rl
-Coursera Reinforcement Learning Specialization
+# Coursera Reinforcement Learning Specialization
+
+Let's start...
